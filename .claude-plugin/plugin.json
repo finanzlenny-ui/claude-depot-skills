@@ -1,0 +1,10 @@
+{
+  "name": "depot-skills",
+  "version": "1.0.0",
+  "description": "9 Skills für dein Depot: Depot-Check, Sparplan-Optimierer, Aktien-Check, Politiker-Tracker, Insider-Radar, Earnings-Analyst, Klumpen-Finder, Copy-Trader-Check, Wochen-Ritual. Keine Anlageberatung.",
+  "author": {
+    "name": "Lenny Investiert"
+  },
+  "license": "MIT",
+  "keywords": ["depot", "aktien", "etf", "sparplan", "etoro", "finanzen", "deutsch"]
+}

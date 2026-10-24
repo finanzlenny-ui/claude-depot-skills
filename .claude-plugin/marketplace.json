@@ -1,0 +1,14 @@
+{
+  "name": "lenny-investiert",
+  "description": "Claude-Skills von Lenny Investiert für dein Depot",
+  "owner": {
+    "name": "Lenny Investiert"
+  },
+  "plugins": [
+    {
+      "name": "depot-skills",
+      "source": "./",
+      "description": "9 Skills für dein Depot: Depot-Check, Sparplan-Optimierer, Aktien-Check, Politiker-Tracker, Insider-Radar, Earnings-Analyst, Klumpen-Finder, Copy-Trader-Check, Wochen-Ritual. Keine Anlageberatung."
+    }
+  ]
+}
